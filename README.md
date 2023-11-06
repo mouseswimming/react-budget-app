@@ -1,6 +1,16 @@
-# React + TypeScript + Vite
+# React + TypeScript + Redux Toolkit + Bootstrap
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Responsive design
+### Mobile view
+<img width="593" alt="image" src="https://github.com/mouseswimming/react-budget-app/assets/2342125/9c7eebce-ce37-495b-afef-d813e7efba44">
+
+### Desktop view
+<img width="1183" alt="image" src="https://github.com/mouseswimming/react-budget-app/assets/2342125/c4c73c92-6693-481e-b12b-6b25dd9af578">
+
+
+## Available Script
+
+This project was bootstrapped with [Vite](https://vitejs.dev/)
 
 Currently, two official plugins are available:
 
