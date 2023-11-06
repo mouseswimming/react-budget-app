@@ -39,7 +39,7 @@ function App() {
         <Stack
           direction="horizontal"
           gap={2}
-          className="my-4 align-items-center"
+          className="mt-4 mb-5 align-items-center"
         >
           <h1 className="me-auto mb-0">Budgets</h1>
           <Button
